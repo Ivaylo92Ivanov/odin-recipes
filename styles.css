@@ -1,3 +1,9 @@
+.home-page-image {
+    margin-left: auto;
+    display: block;
+    margin-right: auto;
+}
+
 h1 {
     background-color: rgb(0, 150, 80);
     text-align: center;
