@@ -24,6 +24,7 @@ h1 {
 }
 
 h2 {
+    margin: 10px;
     text-align: center;
 }
 
@@ -38,7 +39,22 @@ ol li {
     border-bottom: 1px dotted green;
 }
 
+.recipes-first-row {
+    text-align: center;
+}
 
+.homepage-list-container {
+    text-align: center;
+}
+
+ul.homepage-ul {
+    display: inline-block;
+}
+
+a:hover {
+    background-color: rgb(190, 240, 190);
+    
+}
 
 footer {
     margin-top: 50px;
