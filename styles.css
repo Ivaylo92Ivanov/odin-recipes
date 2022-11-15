@@ -1,5 +1,5 @@
 body {
-    width: 800px;
+    max-width: 800px; 
     margin: 0px auto;
 }
 
@@ -38,16 +38,18 @@ ol li {
     border-bottom: 1px dotted green;
 }
 
-.recipes-first-row {
-    text-align: center;
-}
-
 .homepage-list-container {
     text-align: center;
 }
 
 ul.homepage-ul {
     display: inline-block;
+}
+
+.recipes-flex-container {
+    display: flex;
+    justify-content: center;
+    
 }
 
 a:hover {
