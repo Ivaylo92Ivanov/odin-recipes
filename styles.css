@@ -49,8 +49,14 @@ ul.homepage-ul {
 .recipes-flex-container {
     display: flex;
     justify-content: center;
-    
 }
+
+.lasagna-recipe-image,
+.margherita-recipe-image,
+.tomato-soup-recipe-image {
+    padding: 10px;
+}
+
 
 a:hover {
     background-color: rgb(190, 240, 190);
